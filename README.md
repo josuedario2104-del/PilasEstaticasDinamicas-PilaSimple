@@ -6,7 +6,7 @@
 - **Unidad:** 3
 - **Práctica:** Pilas Estáticas y Dinámicas en Java
 - **Docente:** Víctor Hugo Vásquez Herrera
-- **Alumna:** Yajahira Germayoni Aguilar Hernádez
+- **Alumna:** Dario Josue Banuelos Sanchez
 - **Institución:** Instituto Tecnológico Superior de Xalapa
 - **Carrera:** Ingeniería en Sistemas Computacionales
 
